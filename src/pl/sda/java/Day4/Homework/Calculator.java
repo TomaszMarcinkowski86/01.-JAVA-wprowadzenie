@@ -20,9 +20,10 @@ public class Calculator {
         int[] tab = {1, 3, 4, 3, 56, 43};
         double[] doubleTab = {2.3,3.3,5,7.6};
 
-        System.out.println(arrayOperation(tab));
-        System.out.println(sumArray(tab));
-        System.out.println(average(doubleTab));
+       // System.out.println(arrayOperation(tab));
+      //  System.out.println(sumArray(tab));
+       // System.out.println(average(doubleTab));
+        Calc();
 
 
     }
@@ -37,7 +38,7 @@ public class Calculator {
         number1 = scanner.nextDouble();
         number2 = scanner.nextDouble();
         int sign;
-        boolean end = true;
+        boolean end = false;
 
         do {
             System.out.println("Wybierz działanie:");
@@ -65,7 +66,7 @@ public class Calculator {
                     System.out.println("Wybrałeś nieprawidłowy znak");
             }
         } while (end);
-//    } while (end=true); nie działało czemu??
+  //   } while (end=true); //nie działało czemu??
 
 
     }
