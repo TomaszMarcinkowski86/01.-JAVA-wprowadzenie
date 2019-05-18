@@ -50,14 +50,14 @@ public class CollectionExample { // kolekcje
 
 
         List<String> word = new LinkedList<>(); // inny sposób deklaracji listy. Nie Array a LinkedList
-        //szybkie dodawanie elementów wolne przeszukiwanie listy.
+        //szybkie dodawanie elementów, wolne przeszukiwanie listy.
         word.add("abc");
         word.add("asa");
         word.add("ddmd");
         word.remove(0);
         word.remove("ddmd");
 
-        //Kolekcja set
+        ///////Kolekcja Set///////////////////////////////
 
         Set<Integer> setNumbers = new HashSet<>();
         // wartości nie są upożądkowane w jakiś sposób jak w tablicy czy liście
@@ -80,7 +80,7 @@ public class CollectionExample { // kolekcje
 
         Set<String> setOfString = new TreeSet<>(); // kolejna kolekcja
         // to możemy sortować
-        // liczby umieści po kolei a litery alfabetycznie
+        // liczby umieści po kolei a litery alfabetycznie automatycznie to robi
         // .descendingSet() prawdopodobnie odwraca kolejność - nie sprawdzone
         // do TreeSeta nie możemy wrzucić czegokolwiek (przykład z Grzybem) klasa Grzyb nie implementuje  Comparable  .
         // Unikalne elemnty posortowane

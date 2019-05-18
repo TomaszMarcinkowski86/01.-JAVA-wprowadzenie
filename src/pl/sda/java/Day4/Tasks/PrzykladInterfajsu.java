@@ -17,6 +17,6 @@ public interface PrzykladInterfajsu {
 
     public default void fun2(){
         System.out.println("cos");
-    }
+    } // implementacja metody przy pomocy słowa default możliwa jest od javy 8
 
 }

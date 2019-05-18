@@ -1,4 +1,4 @@
-package pl.sda.java.Day4.Homework;
+package pl.sda.java.Day4.Homework.zad1;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
@@ -38,7 +38,7 @@ public class Calculator {
         number1 = scanner.nextDouble();
         number2 = scanner.nextDouble();
         int sign;
-        boolean end = false;
+        boolean end = true;
 
         do {
             System.out.println("Wybierz działanie:");
@@ -54,19 +54,19 @@ public class Calculator {
                 } else if (sign == 3) {
                     System.out.println(number1 + " * " + number2 + " = " + (number1 * number2));
                 } else if (sign == 4) {
-                    System.out.println(number1 + " / " + number2 + " = " + (number1 / number2));
+                    System.out.println(number1 + " / " + number2 + " = " + (number1 / number2)); // nie uwzględniłem dzielenia przez 0
                 } else if (sign == 5) {
                     System.out.println("Reszta z dzielenia = " + (int) (number1 % number2));
                 } else if (sign == 6) {
                     System.out.println("Potęgownaie = " + Math.pow(number1, number2));
                 } else if (sign == 0) {
-                    end = true;
-                    break; // dopiero zadziałało jak to wstawiłem
+                    end = false;
+                //   break; // dopiero zadziałało jak to wstawiłem //poprawione
                 } else
                     System.out.println("Wybrałeś nieprawidłowy znak");
             }
         } while (end);
-  //   } while (end=true); //nie działało czemu??
+    // } while (end==true); //nie działało czemu??
 
 
     }
@@ -84,6 +84,8 @@ public class Calculator {
     public static int sumArray(int[] tab) {
         int sum = tab[0];
         for (int i = 0; i < tab.length; i++) {
+            // for(sum: tab){
+            //sum = sum+number:}
             sum +=tab[i];
         }
         return sum;
