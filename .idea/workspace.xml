@@ -2,186 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e94f5a04-db36-4f37-9c3c-7f7300e40733" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/pl/sda/java/Day6/Task/CalcException/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/GroupBeer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Dyrektor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/GabinetDyrektora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Main_school.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Nauczyciel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/PokojNauczycielski.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/PomieszczeniGospodarcze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Pracownik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/SalaLekcyjna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Szatnia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Szkola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Uczen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2/Wozny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/AbstractClass/Contractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/AbstractClass/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/AbstractClass/MainAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/AbstractClass/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/ENUM/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/ENUM/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/ENUM/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/Interface/MainInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Repeat/Interface/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/Arrays_collection/MainCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/FinalKeyWord/ExtendingFinalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/FinalKeyWord/ExtendingFinalKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/FinalKeyWord/FinalKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/Lists/MainList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/Map/MainMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day5/Tasks/Set/MainSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Repeat/IfOrSwich/GradeConventer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Repeat/IfOrSwich/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Repeat/NumberPrint/MainLoopsy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/CalcException/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/CalcException/DivideByZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/CalcException/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/ConfigurationLoader/ConfigurationLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/ConfigurationLoader/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/Exceptions/MainExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/MyOwnException/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/MyOwnException/MyUnchecedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/files/IoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/files/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/AbcFileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/FileConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/FileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/TxtFileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/TxtFileParserTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/interfacing/ZxcFileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/nesting/ExampleInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/nesting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/nesting/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/varargs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/Task/varargs/VarargsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/AlergicCalendar/AlergicCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/AlergicCalendar/AlergicCalendar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/AlergicCalendar/MainAlegicCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/AlergicCalendar/RangeOfDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/InsuredPeople/MainInsuredPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/InsuredPeople/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework/InsuredPeople/Ubezpieczyciel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/allergy/AllergyCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/allergy/DatesRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/allergy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Repeat/AnimalAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Repeat/ExtendsAnimal_Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Repeat/ExtendsAnimal_Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Repeat/InterfacePredator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Repeat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Repeat/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/MissingDayOfWeekException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/OpeningHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/TimeRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/buildingType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Calculator_Args/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Calculator_Args/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/ReadFileFromFile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day7/Task/ReadFileFromFile/WordCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Homework/FileCipher/FileCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Homework/FileCipher/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Homework/FileCipher/ReadFileFromDisk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/GenericClass/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/GenericClass/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/GenericClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/GenericClass/MoreRestrictedGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Generic_task/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Generic_task/QuickList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Lambda/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Lambda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/LambdaStream/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/LambdaStream/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/LambdaStream/PersonManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Optional/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/OptionalTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/OptionalTask/NumberMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc/ExtendingThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc/ImplementRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc2/ExtendedThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc2/ImplementsRunnable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/ZapisDoPilku/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/ZapisDoPilku/SaveToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/defaultConfig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/exampleFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/panTadeusz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/pl/sda/java/Day2K/IfsExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/BigIntegerBigDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day1K/MinMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day2K/ApplicationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day2K/ArraysExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day2K/ForsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day2K/IfsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day2K/Methods_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Dostep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Dyrektor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/GabinetDyrektora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Nauczyciel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/PokojNauczycielski.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/PomieszczenieGospodarcze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Pracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/SalaLekcyjna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Szatnia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Szkola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Uczen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad2Zuza/Wozny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/CurrencyNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/insurance/Insurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/insurance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/insurance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Accessmodifilers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/ClasseaAndObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Conditionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/HelloWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/ReferenceandValueTyp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basic/TypesandVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/If_Else.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JAVA_notatnik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaBooleans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaBooleans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/switch1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Taks10forWhileDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task11_13Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task14MethodsTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task15Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task16Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task1Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task2TestMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task3Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task4DatesAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task5Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task6UserMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task7LoopsFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task8LoopsInne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/homework/Task9Speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/AbcFileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/FileConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/FileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/TxtFileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/TxtFileParserTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/java/interfacing/ZxcFileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/aaa.ncl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/aaa.tap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/people.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/testFiles/test.abc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/testFiles/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/testFiles/test.zxc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/resources/testFiles/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-example-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SDA_JAVA_MICHAL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDA_JAVA_MICHAL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Cake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Main_dziedziczenie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Mercedes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task/Zad1Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task/Zad2Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task2/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task2/Labrador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task2/Pies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task2/Sznaucer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Task2/Zwierze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day3/Volkswagen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/CollectionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Dell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Homework/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/ImplementacjaKlasyAbstrakcyjnej.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/MainEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/PalletColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/PrzykladKlasyAbstrakcyjnej.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Cherry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Grzyb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/ImplementacjaInterfejsu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/IntNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Interfejs2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Jadalny.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/MainGrzyby.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Muchomor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Pear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Pieczarka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Prawdziwek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/PrzykladInterfajsu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDA_JAVA_MICHAL/pl/sda/java/Day4/Tasks/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/java/Day4/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/CollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Homework/zad1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/java/Day4/Tasks/PrzykladInterfajsu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/java/Day4/Tasks/PrzykladInterfajsu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -191,8 +100,103 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/If_Else.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaBooleans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaIntro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/switch1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day1K/BigIntegerBigDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day1K/MinMaxValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day2K/ApplicationUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/interfacing/AbcFileParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/sda/java/interfacing/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -211,25 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc/ExtendingThread.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/allergy/DatesRange.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/allergy/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/allergy/AllergyCalendar.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/CurrencyNotFound.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/CurrencyExchange.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/Currency.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/currency/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/insurance/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/insurance/Person.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day6/homework_Michal/insurance/Insurer.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc2/ImplementsRunnable2.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc2/ExtendedThread2.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc2/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/ZapisDoPilku/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/ZapisDoPilku/SaveToFile.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day1K/BigIntegerBigDecimal.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/java/Day1K/CalculatorExample.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/java/Day1K/IncrementDecrement.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/java/Day1K/Main.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/java/Day1K/Method.java" />
@@ -262,7 +247,33 @@
         <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Homework/FileCipher/ReadFileFromDisk.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/java/Day8/Task/GenericClass/MoreRestrictedGenericClass.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/java/Day1K/GroupBeer.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Accessmodifilers.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/If_Else.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Array.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/ClasseaAndObject.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Conditionals.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Constant.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/HelloWord.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Loops.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Methods.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Objects.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Person.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/ReferenceandValueTyp.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/Scope.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/TypesandVariables.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basic/ReferenceAndValueTypes.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaBooleans.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaIntro.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaMath.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/java/basicTutorial/switch1.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -290,8 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,39 +348,30 @@
               <item name="SDA_JAVA_MICHAL" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDA_JAVA_MICHAL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDA_JAVA_MICHAL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDA_JAVA_MICHAL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="sda" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDA_JAVA_MICHAL" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDA_JAVA_MICHAL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="sda" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDA_JAVA_MICHAL" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDA_JAVA_MICHAL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1K" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554535287257" />
@@ -380,8 +380,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/pl/sda/java/Day6/Task" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TDD_TESTY/unit-testing-sda/pom.xml" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -445,11 +445,11 @@
       </method>
     </configuration>
     <configuration name="Task14MethodsTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.java.Krzysiek_zadania.Task14MethodsTree" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.java.homework.Task14MethodsTree" />
       <module name="SDA_JAVA_MICHAL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.java.Krzysiek_zadania.*" />
+          <option name="PATTERN" value="pl.sda.java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -458,11 +458,11 @@
       </method>
     </configuration>
     <configuration name="Task15Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.java.Krzysiek_zadania.Task15Calc" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.java.homework.Task15Calc" />
       <module name="SDA_JAVA_MICHAL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.java.Krzysiek_zadania.*" />
+          <option name="PATTERN" value="pl.sda.java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,11 +471,11 @@
       </method>
     </configuration>
     <configuration name="Task9Speed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.java.Krzysiek_zadania.Task9Speed" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.java.homework.Task9Speed" />
       <module name="SDA_JAVA_MICHAL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.java.Krzysiek_zadania.*" />
+          <option name="PATTERN" value="pl.sda.java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -543,9 +543,10 @@
     <option name="totallyTimeSpent" value="1740000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24413647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -593,184 +594,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Krzysiek_zadania/Task15Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/pl/sda/java/Day2K/IfsExampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Lambda/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Lambda/LambdaExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Optional/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/ZapisDoPilku/SaveToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day7/Task/Building/TimeRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Homework/FileCipher/FileCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day6/Task/files/IoExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/Wielowatkowosc/ExtendingThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/OptionalTask/NumberMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/OptionalTask/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/LambdaStream/PersonManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/LambdaStream/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day7/Task/ReadFileFromFile/WordCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day7/Task/ReadFileFromFile/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day6/Task/nesting/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day6/Task/nesting/ParentClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day6/Task/ConfigurationLoader/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day6/Task/ConfigurationLoader/ConfigurationLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Task/ZapisDoPilku/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day8/Homework/FileCipher/ReadFileFromDisk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day2K/ArraysExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day2K/ApplicationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day1K/BigIntegerBigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -799,13 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day1K/MinMaxValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -872,13 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day1K/BigIntegerBigDecimal.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day1K/BigIntegerBigDecimal.class" />
     <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day4/PrzykladKlasyAbstrakcyjnej.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -907,13 +721,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Krzysiek_zadania/Task15Calc.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Krzysiek_zadania/Task15Calc.class" />
     <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -939,24 +747,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day2K/ArraysExample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day2K/ApplicationUtils.class">
+    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day2K/ArraysExample.class" />
+    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day2K/ApplicationUtils.class" />
+    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day1K/CalculatorExample.class" />
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Accessmodifilers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#438#0" expanded="true" />
-          </folding>
+          <caret selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/java/Day1K/CalculatorExample.class">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/ClasseaAndObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Conditionals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/HelloWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Loops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/TypesandVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/ReferenceAndValueTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basic/ReferenceandValueTyp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/If_Else.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/If_Else.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaBooleans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/JavaMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/basicTutorial/switch1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day1K/BigIntegerBigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day1K/MinMaxValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/Day2K/ApplicationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/interfacing/AbcFileParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/java/interfacing/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
